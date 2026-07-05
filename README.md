@@ -1,5 +1,5 @@
 # Gibbs_Python_Portolio
-This is the portfolio of python coding that I learned during BISC 450C.
+This portfolio demonstrates the Python programming concepts and coding skills I learned during BISC 450C through Jupyter Lab and Praxis AI.
 
 
 ## Using Jupyter Notebooks
